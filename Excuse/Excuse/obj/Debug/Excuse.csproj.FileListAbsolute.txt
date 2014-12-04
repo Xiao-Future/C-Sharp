@@ -1,0 +1,8 @@
+D:\用户目录\Documents\Visual Studio 2008\Projects\Excuse\Excuse\obj\Debug\ResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\Excuse\Excuse\obj\Debug\Excuse.Form1.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\Excuse\Excuse\obj\Debug\Excuse.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\Excuse\Excuse\obj\Debug\Excuse.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\Excuse\Excuse\bin\Debug\Excuse.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\Excuse\Excuse\bin\Debug\Excuse.pdb
+D:\用户目录\Documents\Visual Studio 2008\Projects\Excuse\Excuse\obj\Debug\Excuse.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\Excuse\Excuse\obj\Debug\Excuse.pdb
