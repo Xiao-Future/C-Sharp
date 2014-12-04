@@ -1,0 +1,8 @@
+D:\用户目录\Documents\Visual Studio 2008\Projects\Store\Store\obj\Debug\ResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\Store\Store\obj\Debug\Store.Form1.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\Store\Store\obj\Debug\Store.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\Store\Store\obj\Debug\Store.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\Store\Store\bin\Debug\Store.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\Store\Store\bin\Debug\Store.pdb
+D:\用户目录\Documents\Visual Studio 2008\Projects\Store\Store\obj\Debug\Store.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\Store\Store\obj\Debug\Store.pdb

@@ -1,0 +1,8 @@
+D:\用户目录\Documents\Visual Studio 2008\Projects\GoFishing\GoFishing\obj\Debug\ResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\GoFishing\GoFishing\obj\Debug\GoFishing.Form1.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\GoFishing\GoFishing\obj\Debug\GoFishing.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\GoFishing\GoFishing\obj\Debug\GoFishing.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\GoFishing\GoFishing\bin\Debug\GoFishing.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\GoFishing\GoFishing\bin\Debug\GoFishing.pdb
+D:\用户目录\Documents\Visual Studio 2008\Projects\GoFishing\GoFishing\obj\Debug\GoFishing.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\GoFishing\GoFishing\obj\Debug\GoFishing.pdb

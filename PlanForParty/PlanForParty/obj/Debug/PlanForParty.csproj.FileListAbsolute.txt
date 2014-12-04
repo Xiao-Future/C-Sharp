@@ -1,0 +1,8 @@
+D:\用户目录\Documents\Visual Studio 2008\Projects\PlanForParty\PlanForParty\obj\Debug\ResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\PlanForParty\PlanForParty\obj\Debug\PlanForParty.Form1.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\PlanForParty\PlanForParty\obj\Debug\PlanForParty.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\PlanForParty\PlanForParty\obj\Debug\PlanForParty.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\PlanForParty\PlanForParty\bin\Debug\PlanForParty.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\PlanForParty\PlanForParty\bin\Debug\PlanForParty.pdb
+D:\用户目录\Documents\Visual Studio 2008\Projects\PlanForParty\PlanForParty\obj\Debug\PlanForParty.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\PlanForParty\PlanForParty\obj\Debug\PlanForParty.pdb

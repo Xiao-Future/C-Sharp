@@ -1,0 +1,8 @@
+D:\用户目录\Documents\Visual Studio 2008\Projects\house\house\obj\Debug\ResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\house\house\obj\Debug\house.Form1.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\house\house\obj\Debug\house.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\house\house\obj\Debug\house.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\house\house\bin\Debug\house.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\house\house\bin\Debug\house.pdb
+D:\用户目录\Documents\Visual Studio 2008\Projects\house\house\obj\Debug\house.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\house\house\obj\Debug\house.pdb

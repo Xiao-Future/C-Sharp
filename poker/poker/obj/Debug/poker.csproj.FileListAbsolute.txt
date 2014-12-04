@@ -1,0 +1,8 @@
+D:\用户目录\Documents\Visual Studio 2008\Projects\poker\poker\obj\Debug\ResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\poker\poker\obj\Debug\poker.Form1.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\poker\poker\obj\Debug\poker.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\poker\poker\obj\Debug\poker.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\poker\poker\bin\Debug\poker.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\poker\poker\bin\Debug\poker.pdb
+D:\用户目录\Documents\Visual Studio 2008\Projects\poker\poker\obj\Debug\poker.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\poker\poker\obj\Debug\poker.pdb
