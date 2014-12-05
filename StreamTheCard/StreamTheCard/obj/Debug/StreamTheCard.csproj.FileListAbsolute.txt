@@ -1,0 +1,8 @@
+D:\用户目录\Documents\Visual Studio 2008\Projects\StreamTheCard\StreamTheCard\obj\Debug\ResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\StreamTheCard\StreamTheCard\obj\Debug\StreamTheCard.Form1.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\StreamTheCard\StreamTheCard\obj\Debug\StreamTheCard.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\StreamTheCard\StreamTheCard\obj\Debug\StreamTheCard.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\StreamTheCard\StreamTheCard\bin\Debug\StreamTheCard.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\StreamTheCard\StreamTheCard\bin\Debug\StreamTheCard.pdb
+D:\用户目录\Documents\Visual Studio 2008\Projects\StreamTheCard\StreamTheCard\obj\Debug\StreamTheCard.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\StreamTheCard\StreamTheCard\obj\Debug\StreamTheCard.pdb
