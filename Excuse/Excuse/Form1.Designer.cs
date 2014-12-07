@@ -116,6 +116,7 @@
             // 
             // buttonSave
             // 
+            this.buttonSave.Enabled = false;
             this.buttonSave.Location = new System.Drawing.Point(113, 186);
             this.buttonSave.Name = "buttonSave";
             this.buttonSave.Size = new System.Drawing.Size(75, 23);
@@ -124,29 +125,28 @@
             this.buttonSave.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.buttonSave.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.buttonSave.UseVisualStyleBackColor = true;
-            this.buttonSave.Visible = false;
             this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
             // buttonOpen
             // 
+            this.buttonOpen.Enabled = false;
             this.buttonOpen.Location = new System.Drawing.Point(209, 186);
             this.buttonOpen.Name = "buttonOpen";
             this.buttonOpen.Size = new System.Drawing.Size(75, 23);
             this.buttonOpen.TabIndex = 10;
             this.buttonOpen.Text = "Open";
             this.buttonOpen.UseVisualStyleBackColor = true;
-            this.buttonOpen.Visible = false;
             this.buttonOpen.Click += new System.EventHandler(this.buttonOpen_Click);
             // 
             // buttonRandom
             // 
+            this.buttonRandom.Enabled = false;
             this.buttonRandom.Location = new System.Drawing.Point(312, 186);
             this.buttonRandom.Name = "buttonRandom";
             this.buttonRandom.Size = new System.Drawing.Size(108, 23);
             this.buttonRandom.TabIndex = 11;
             this.buttonRandom.Text = "Random Excuse";
             this.buttonRandom.UseVisualStyleBackColor = true;
-            this.buttonRandom.Visible = false;
             this.buttonRandom.Click += new System.EventHandler(this.buttonRandom_Click);
             // 
             // dateTimeLastUsed
