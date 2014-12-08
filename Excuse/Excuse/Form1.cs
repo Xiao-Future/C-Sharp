@@ -68,8 +68,17 @@ namespace Excuse
             if (result == DialogResult.OK)
             {
                 currentExcuse.Save(saveFileDialog1.FileName);
-                UpdateForm(false);
-                MessageBox.Show("Excuse written");
+                if (currentExcuse.LastUsed == DateTime.MinValue || currentExcuse.LastUsed == DateTime.MaxValue)//如果不输入最后使用时间将无法储存
+                {
+                    MessageBox.Show("Please input the Datetime", "Unable to save", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                    File.Delete(saveFileDialog1.FileName);
+                    return;
+                }
+                else
+                {
+                    UpdateForm(false);
+                    MessageBox.Show("Excuse written");
+                }
             }
         }
 
@@ -83,8 +92,34 @@ namespace Excuse
                 DialogResult result = openFileDialog1.ShowDialog();
                 if (result == DialogResult.OK)
                 {
-                    currentExcuse = new Excuse(openFileDialog1.FileName);
-                    UpdateForm(false);
+                    bool clearForm = false;
+                    try
+                    {
+                        currentExcuse = new Excuse(openFileDialog1.FileName);
+                        try
+                        {
+                            UpdateForm(false);
+                        }
+                        catch
+                        {
+                            MessageBox.Show("An error occurred while opening the excuse");
+                            clearForm = true;
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("An error occurred while opening the excuse" + openFileDialog1.FileName + "'\n" + ex.Message, "Unable to open the excuse", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        clearForm = true;
+                    }
+                    finally
+                    {
+                        if (clearForm)
+                        {
+                            textExcuse.Text = "";
+                            textResults.Text = "";
+                            dateTimeLastUsed.Value = DateTime.Now;
+                        }
+                    }
                 }
             }
         }
