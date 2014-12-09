@@ -1,0 +1,8 @@
+D:\用户目录\Documents\Visual Studio 2008\Projects\BaseBall\BaseBall\bin\Debug\BaseBall.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\BaseBall\BaseBall\bin\Debug\BaseBall.pdb
+D:\用户目录\Documents\Visual Studio 2008\Projects\BaseBall\BaseBall\obj\Debug\ResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\BaseBall\BaseBall\obj\Debug\BaseBall.Form1.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\BaseBall\BaseBall\obj\Debug\BaseBall.Properties.Resources.resources
+D:\用户目录\Documents\Visual Studio 2008\Projects\BaseBall\BaseBall\obj\Debug\BaseBall.csproj.GenerateResource.Cache
+D:\用户目录\Documents\Visual Studio 2008\Projects\BaseBall\BaseBall\obj\Debug\BaseBall.exe
+D:\用户目录\Documents\Visual Studio 2008\Projects\BaseBall\BaseBall\obj\Debug\BaseBall.pdb
