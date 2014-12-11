@@ -1,0 +1,8 @@
+D:\Studying-742\C-Sharp\FuckSusliks\FuckSusliks\obj\Debug\ResolveAssemblyReference.cache
+D:\Studying-742\C-Sharp\FuckSusliks\FuckSusliks\obj\Debug\FuckSusliks.Form1.resources
+D:\Studying-742\C-Sharp\FuckSusliks\FuckSusliks\obj\Debug\FuckSusliks.Properties.Resources.resources
+D:\Studying-742\C-Sharp\FuckSusliks\FuckSusliks\obj\Debug\FuckSusliks.csproj.GenerateResource.Cache
+D:\Studying-742\C-Sharp\FuckSusliks\FuckSusliks\bin\Debug\FuckSusliks.exe
+D:\Studying-742\C-Sharp\FuckSusliks\FuckSusliks\bin\Debug\FuckSusliks.pdb
+D:\Studying-742\C-Sharp\FuckSusliks\FuckSusliks\obj\Debug\FuckSusliks.exe
+D:\Studying-742\C-Sharp\FuckSusliks\FuckSusliks\obj\Debug\FuckSusliks.pdb
