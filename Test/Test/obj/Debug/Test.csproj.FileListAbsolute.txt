@@ -1,0 +1,8 @@
+D:\Studying-742\C-Sharp\Test\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Studying-742\C-Sharp\Test\Test\obj\Debug\Test.Form1.resources
+D:\Studying-742\C-Sharp\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Studying-742\C-Sharp\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Studying-742\C-Sharp\Test\Test\bin\Debug\Test.exe
+D:\Studying-742\C-Sharp\Test\Test\bin\Debug\Test.pdb
+D:\Studying-742\C-Sharp\Test\Test\obj\Debug\Test.exe
+D:\Studying-742\C-Sharp\Test\Test\obj\Debug\Test.pdb

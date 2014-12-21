@@ -1,0 +1,8 @@
+D:\Studying-742\C-Sharp\Game24\Game24\bin\Debug\Game24.exe
+D:\Studying-742\C-Sharp\Game24\Game24\bin\Debug\Game24.pdb
+D:\Studying-742\C-Sharp\Game24\Game24\obj\Debug\ResolveAssemblyReference.cache
+D:\Studying-742\C-Sharp\Game24\Game24\obj\Debug\Game24.Form1.resources
+D:\Studying-742\C-Sharp\Game24\Game24\obj\Debug\Game24.Properties.Resources.resources
+D:\Studying-742\C-Sharp\Game24\Game24\obj\Debug\Game24.csproj.GenerateResource.Cache
+D:\Studying-742\C-Sharp\Game24\Game24\obj\Debug\Game24.exe
+D:\Studying-742\C-Sharp\Game24\Game24\obj\Debug\Game24.pdb

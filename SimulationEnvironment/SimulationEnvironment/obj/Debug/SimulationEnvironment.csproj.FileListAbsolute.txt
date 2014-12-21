@@ -1,0 +1,8 @@
+D:\Studying-742\C-Sharp\SimulationEnvironment\SimulationEnvironment\bin\Debug\SimulationEnvironment.exe
+D:\Studying-742\C-Sharp\SimulationEnvironment\SimulationEnvironment\bin\Debug\SimulationEnvironment.pdb
+D:\Studying-742\C-Sharp\SimulationEnvironment\SimulationEnvironment\obj\Debug\ResolveAssemblyReference.cache
+D:\Studying-742\C-Sharp\SimulationEnvironment\SimulationEnvironment\obj\Debug\SimulationEnvironment.Properties.Resources.resources
+D:\Studying-742\C-Sharp\SimulationEnvironment\SimulationEnvironment\obj\Debug\SimulationEnvironment.csproj.GenerateResource.Cache
+D:\Studying-742\C-Sharp\SimulationEnvironment\SimulationEnvironment\obj\Debug\SimulationEnvironment.exe
+D:\Studying-742\C-Sharp\SimulationEnvironment\SimulationEnvironment\obj\Debug\SimulationEnvironment.pdb
+D:\Studying-742\C-Sharp\SimulationEnvironment\SimulationEnvironment\obj\Debug\SimulationEnvironment.Form1.resources
