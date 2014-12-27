@@ -1,0 +1,8 @@
+D:\Studying-742\C-Sharp\CaculateAnsysWendy\CaculateAnsysWendy\obj\Debug\ResolveAssemblyReference.cache
+D:\Studying-742\C-Sharp\CaculateAnsysWendy\CaculateAnsysWendy\obj\Debug\CaculateAnsysWendy.Properties.Resources.resources
+D:\Studying-742\C-Sharp\CaculateAnsysWendy\CaculateAnsysWendy\obj\Debug\CaculateAnsysWendy.csproj.GenerateResource.Cache
+D:\Studying-742\C-Sharp\CaculateAnsysWendy\CaculateAnsysWendy\bin\Debug\CaculateAnsysWendy.exe
+D:\Studying-742\C-Sharp\CaculateAnsysWendy\CaculateAnsysWendy\bin\Debug\CaculateAnsysWendy.pdb
+D:\Studying-742\C-Sharp\CaculateAnsysWendy\CaculateAnsysWendy\obj\Debug\CaculateAnsysWendy.exe
+D:\Studying-742\C-Sharp\CaculateAnsysWendy\CaculateAnsysWendy\obj\Debug\CaculateAnsysWendy.pdb
+D:\Studying-742\C-Sharp\CaculateAnsysWendy\CaculateAnsysWendy\obj\Debug\CaculateAnsysWendy.Form1.resources

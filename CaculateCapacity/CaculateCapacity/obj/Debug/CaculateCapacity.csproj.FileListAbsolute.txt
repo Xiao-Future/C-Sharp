@@ -1,0 +1,8 @@
+D:\Studying-742\C-Sharp\CaculateCapacity\CaculateCapacity\bin\Debug\CaculateCapacity.exe
+D:\Studying-742\C-Sharp\CaculateCapacity\CaculateCapacity\bin\Debug\CaculateCapacity.pdb
+D:\Studying-742\C-Sharp\CaculateCapacity\CaculateCapacity\obj\Debug\ResolveAssemblyReference.cache
+D:\Studying-742\C-Sharp\CaculateCapacity\CaculateCapacity\obj\Debug\CaculateCapacity.Form1.resources
+D:\Studying-742\C-Sharp\CaculateCapacity\CaculateCapacity\obj\Debug\CaculateCapacity.Properties.Resources.resources
+D:\Studying-742\C-Sharp\CaculateCapacity\CaculateCapacity\obj\Debug\CaculateCapacity.csproj.GenerateResource.Cache
+D:\Studying-742\C-Sharp\CaculateCapacity\CaculateCapacity\obj\Debug\CaculateCapacity.exe
+D:\Studying-742\C-Sharp\CaculateCapacity\CaculateCapacity\obj\Debug\CaculateCapacity.pdb
